@@ -165,16 +165,15 @@ MIT — open-source, free to cite, modify, redistribute.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Reporting
 
-Currently **single maintainer** (maintainer + contributor dual perspective).
-Welcome:
+Single maintainer. To participate:
 
-- Open Issue pointing out medical errors (AI assistants do not replace doctors, please provide authoritative sources)
-- Open PR adding decision trees (please follow privacy iron rule + disclaimer template)
-- Citing this document (please retain source attribution)
+- **Medical error** — open an Issue with file:line + the incorrect claim + an authoritative source (WHO / AAP / UpToDate / China NHC + year)
+- **Privacy violation** — open a *private* Issue (label `privacy`); we'll remove within 24h
+- **New decision tree** — open a PR following the 4-piece format (5-step + 7 red flags + 5 myths + quick check — see existing trees as templates)
+- **Citing this work** — please retain disclaimer + privacy iron rule + data source attribution
 
 ---
 
-**Last updated**: continuously updating  
-**Contact**: open an Issue on this repository
+**Last updated**: continuously updating
