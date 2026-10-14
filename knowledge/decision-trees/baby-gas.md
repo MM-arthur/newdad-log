@@ -1,95 +1,95 @@
-# 胀气（肠胀气 vs 胃胀气）
+# Gas (intestinal gas vs stomach gas)
 
-> ⚠️ **仅作参考，不构成医疗建议**。具体请遵医嘱。
-> **Skill 定位**：只录框架（**两类区别 + 怎么处理**）和**容易踩的坑**。
-> 不录：详细用药、益生菌品牌对比（医学库比这全）。
+> ⚠️ **For reference only, does not constitute medical advice**. Follow doctor's guidance.
+> **Skill positioning**: Only record the framework (**difference between two types + how to handle**) and **common pitfalls**.
+> Not recorded: detailed medications, probiotic brand comparisons (medical DB has more).
 
 ---
 
-## 基本区分
+## Basic distinction
 
-| 类型 | 位置 | 原因 | 时间 | 表现 |
+| Type | Location | Cause | Timing | Symptoms |
 |---|---|---|---|---|
-| **肠胀气** | 肠道 | 肠道菌群建立、吞入空气、产气多 | 多在傍晚/夜间 | 脸憋红、双腿蜷曲、哭闹难安抚、放屁后好转 |
-| **胃胀气** | 胃部 | 吃太急、奶瓶流速太快、衔乳姿势不对 | 喂奶中/喂后 | 拍嗝拍不出、吐奶多、肚子拍起来"咚咚"响 |
+| **Intestinal gas** | Intestine | Gut flora establishing, swallowed air, excess gas production | Mostly evening / night | Face flushed, legs curled, hard-to-soothe crying, improves after passing gas |
+| **Stomach gas** | Stomach | Eating too fast, bottle flow too fast, improper latch | During / after feeding | Can't burp, lots of spit-up, belly sounds "dong dong" when tapped |
 
-> 两类**机制不同，处理不同**——当爸容易混在一起。
-
----
-
-## ⭐ 容易踩的坑
-
-### 肠胀气
-
-- ❌ **"肠胀气 = 缺钙/缺益生菌/配方奶问题"** —— **生理性常见**，
-  多数宝宝 3-4 月自愈，不是"病"
-- ❌ **"飞机抱 / 趴着立刻见效"** —— 是缓解手段，**不是根治**；
-  飞机抱适合**哭闹时临时安抚**，不是预防
-- ❌ **"胀气严重就要换水解蛋白奶粉"** —— **绝大多数不需要**；
-  频繁换奶反而扰乱肠道
-
-### 胃胀气
-
-- ❌ **"不拍嗝就放下来"** —— **必须拍嗝**！胃胀气主因
-  是吞入空气没排出，不拍就吐
-- ❌ **"拍不出嗝就不拍"** —— **没拍出也要竖抱 15-20 分钟**，
-  让胃里空气自然上升
-- ❌ **"奶瓶喂奶要看到气泡"** —— **不要有气泡**！气泡 =
-  进气多 = 胃胀气。应**让奶液充满奶嘴**，避免空气
-
-### 共同的坑
-
-- ❌ **"胀气就用西甲硅油/二甲基硅油"** —— 国内常用，但**AAP 不推荐**
-  作为常规用药；可短期用，**不是必选**
-- ❌ **"哭闹就是胀气"** —— 也可能是**肠绞痛**（黄昏哭）、**饿**、
-  **困**、**热**；不要都归到胀气
+> The two have **different mechanisms, different treatments** — new dads tend to confuse them.
 
 ---
 
-## 处理方法（不涉品牌）
+## ⭐ Common pitfalls
 
-### 肠胀气（预防 + 缓解）
+### Intestinal gas
 
-- **预防**：规律喂养 / 不过度喂养 / 喂奶后拍嗝 / 喂奶间隙做排气操
-- **缓解**：飞机抱、趴着（白天大人看护下）、热毛巾敷肚、
-  顺时针揉肚（避开肚脐）
+- ❌ **"Intestinal gas = calcium/probiotic deficiency / formula problem"** — **physiologically common**,
+  most babies self-resolve by 3-4 months, not a "disease"
+- ❌ **"Airplane hold / tummy time works immediately"** — it's relief, **not a cure**;
+  airplane hold is for **temporary soothing during crying**, not prevention
+- ❌ **"Severe gas = switch to hydrolyzed formula"** — **mostly not needed**;
+  frequent switching actually disrupts the gut
 
-### 胃胀气（重点在喂奶习惯）
+### Stomach gas
 
-- **衔乳**（母乳）：含住乳晕，不只含乳头
-- **奶瓶**：奶液充满奶嘴，**不要有气泡**；倾斜度合适
-- **拍嗝**：喂一半拍一次 + 喂完拍；**拍不出也要竖抱**
-- **防吐奶**：喂完**斜躺 15-20 分钟**再放下
+- ❌ **"Put down without burping"** — **must burp**! Main cause of stomach gas
+  is swallowed air not released, no burp → spit up
+- ❌ **"No burp came out, so stop trying"** — **hold upright 15-20 min even without burp**,
+  let stomach air rise naturally
+- ❌ **"Bottle feeding should have visible bubbles"** — **no bubbles wanted**! Bubbles =
+  lots of air intake = stomach gas. Should **let milk fill the nipple**, avoid air
 
----
+### Common pitfalls
 
-## Quick check 模板（Vega 判断时按这个问）
-
-1. 出生几天了？（新生儿 vs 大宝宝概率不同）
-2. **哭闹是喂奶前 / 喂奶中 / 喂奶后**？（时段区分）
-3. 是不是**黄昏/夜间**哭？（肠胀气 + 肠绞痛高峰）
-4. 宝宝**双膝蜷曲**还是**伸直**？（蜷曲 = 肠胀气信号）
-5. 拍嗝**拍出/没拍出**？竖抱后好转吗？（胃胀气信号）
-6. 有没有**吐奶**？吐奶量多少？（区分胃胀气严重度）
-7. 大便性状？（绿便/泡沫便/稀便都提示肠道问题）
-
-→ 持续哭闹 >3 小时 / 拒奶 / 呕吐剧烈 = **当天就医**
-→ 一般胀气 = 教预防 + 缓解方法
+- ❌ **"Use simethicone / dimethicone for gas"** — common in China, but **AAP does not recommend**
+  as routine medication; short-term use OK, **not required**
+- ❌ **"Crying = gas"** — could also be **colic** (evening crying), **hunger**,
+  **tired**, **hot**; don't attribute all to gas
 
 ---
 
-## 与黄疸/体温的交叉
+## Treatment (no brand specifics)
 
-> 这两类问题通常独立，但**早产儿 / 低体重儿**需要更警惕，
-> 任何胀气 + 拒奶 + 嗜睡 = 立刻就医
+### Intestinal gas (prevention + relief)
+
+- **Prevention**: regular feeding / don't overfeed / burp after feeding / bicycle legs between feeds
+- **Relief**: airplane hold, tummy time (under adult supervision during day), warm towel on belly,
+  clockwise belly rub (avoid navel)
+
+### Stomach gas (focus on feeding habits)
+
+- **Latch** (breast): cover areola, not just nipple
+- **Bottle**: milk fills nipple, **no bubbles**; proper tilt
+- **Burp**: midway + after feed; **hold upright even without burp**
+- **Anti-spit-up**: **recline 15-20 min after feed** before putting down
 
 ---
 
-## 当爸口诀
+## Quick check template (used by any reader / agent before responding)
+
+1. How many days after birth? (newborn vs older baby, different probability)
+2. **Crying before / during / after feeding?** (time-segment distinction)
+3. Is it **evening / night** crying? (intestinal gas + colic peak)
+4. Are baby's **knees curled or extended**? (curled = intestinal gas signal)
+5. **Burped or not**? Did upright hold help? (stomach gas signal)
+6. Any **spit-up**? How much? (stomach gas severity)
+7. Stool form? (green / foamy / watery all suggest gut issues)
+
+→ Crying >3 hours / feeding refusal / violent vomiting = **see doctor same day**
+→ General gas = teach prevention + relief
+
+---
+
+## Cross-reference with jaundice / temperature
+
+> These are usually independent, but **premature / low birth weight** need more vigilance,
+> any gas + feeding refusal + drowsy = see doctor immediately
+
+---
+
+## New-dad mnemonic
 
 ```
-肠胀气：蜷曲哭闹，傍晚高峰，飞机抱趴
-胃胀气：衔乳不当，奶瓶气泡，喂完拍嗝
-共同点：不是病，3-4 月自愈（多数）
-就医：3小时拒奶 / 剧烈呕吐 / 嗜睡拒食
+Intestinal: curled crying, evening peak, airplane hold / tummy time
+Stomach: bad latch, bottle bubbles, must burp after
+Common: not disease, 3-4 month self-resolve (most)
+Doctor: 3h feeding refusal / violent vomit / drowsy + refuse to eat
 ```

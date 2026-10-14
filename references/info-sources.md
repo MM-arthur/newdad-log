@@ -1,123 +1,123 @@
-# 信息搜集工具清单
+# Information source tool list
 
-> ⚠️ **仅作参考，不构成医疗建议**。具体请遵医嘱。
-> 育儿过程中，除了本项目的决策树，**还有一些外部工具实测靠谱**——
-> 按场景分三类：**医学权威** / **宝妈经验** / **孕产期管理**。
-
----
-
-## 1. 医学类（权威导向）
-
-> 适合：宝宝 / 妈妈出现**具体症状**想先快速判断该不该去医院、问诊医生。
-
-### 蚂蚁阿福（实测靠谱 ✅）
-
-- **定位**：AI 医疗问诊 + 医学知识科普
-- **适合场景**：
-  - 宝宝出现新症状（黄疸 / 疹子 / 咳嗽）→ 快速判断严重程度
-  - 妈妈产后恢复问题（恶露 / 伤口 / 情绪）
-  - 孕中不适（胎动异常 / 出血 / 腹痛）
-- **优点**：AI 实时回复 + 信息相对权威 + 不收挂号费
-- **使用建议**：
-  - ✅ 作为**初判工具**用，不必挂号也能心里有数
-  - ✅ 紧急情况仍以**公立医院 / 120** 为准
-  - ❌ **不替代医生面诊**——涉及用药 / 治疗 / 手术，必须线下
-
-### 其他可备
-
-- **公立医院线上问诊**（如：当地三甲儿童医院）—— 适合慢性病复诊 / 续方
-- **好大夫在线 / 丁香医生**（付费）—— 适合疑难杂症找专家
+> ⚠️ **For reference only, does not constitute medical advice**. Follow doctor's guidance.
+> In addition to this project's decision trees, there are also **some widely-used external tools** —
+> grouped by scenario: **medical authority** / **parenting community** / **pregnancy management**.
 
 ---
 
-## 2. 宝妈经验（真实导向）
+## 1. Medical (authority-oriented)
 
-> 适合：想知道**别的家长真实怎么处理的**——"过来人踩过什么坑"。
+> Suitable for: baby / mom has **specific symptoms** and wants to quickly judge whether to go to the hospital / consult a doctor.
 
-### 小红书（宝妈真实经验多 ✅）
+### Ant Afu
 
-- **定位**：UGC 内容平台，**宝妈 / 奶爸真实分享**
-- **适合场景**：
-  - 选奶粉 / 纸尿裤 / 奶瓶——看**真实使用反馈 + 横向对比**
-  - 宝宝哄睡 / 戒夜奶 / 辅食添加——看**过来人经验**
-  - 产妇月子餐 / 产后恢复——看**家庭实际操作**
-- **优点**：
-  - ✅ 内容更新快（比传统育儿书时效性强）
-  - ✅ 真实场景多（图文 + 视频，看到具体怎么操作）
-  - ✅ 评论区常有"过来人"补充信息
-- **使用建议**：
-  - ✅ **多看 3-5 篇**同一主题的笔记，找共识
-  - ✅ 重点看**评论区**——比正文还真实
-  - ❌ **不轻信单一笔记**——内容质量参差
-  - ❌ **不照搬用药 / 治疗**——只参考思路，不复制方案
-  - ❌ **警惕软广**——"我娃用了 X 就好了"可能是带货
+- **Positioning**: AI medical consultation + medical knowledge popularization
+- **Suitable scenarios**:
+  - Baby develops new symptoms (jaundice / rash / cough) → quickly judge severity
+  - Mom postpartum recovery issues (lochia / wound / mood)
+  - Pregnancy discomfort (abnormal fetal movement / bleeding / abdominal pain)
+- **Advantages**: AI real-time reply + relatively authoritative information + no registration fee
+- **Usage suggestions**:
+  - ✅ Use as an **initial judgment tool**, get peace of mind without registering
+  - ✅ For emergencies, **public hospital / 120** still takes priority
+  - ❌ **Does not replace in-person doctor consultation** — for medication / treatment / surgery, must go offline
 
-### 内容甄别 5 步
+### Other alternatives
 
-1. **看账号**——真人分享 vs 营销号？
-2. **看评论区**——其他家长反馈一致吗？
-3. **看时间**——宝宝多大写的？跟你情况接近吗？
-4. **看动机**——有没有挂链接 / 引流？
-5. **交叉验证**——医学类问题去**蚂蚁阿福**对一下
+- **Public hospital online consultation** (e.g. local tertiary children's hospital) — suitable for chronic disease follow-up / prescription renewal
+- **Haodf / DXY** (paid) — suitable for difficult cases seeking specialists
 
 ---
 
-## 3. 孕产期管理（工具导向）
+## 2. Mom experience (real-oriented)
 
-> 适合：从备孕到产后**全周期记录 + 提醒**。
+> Suitable for: wanting to know **how other parents actually handled it** — "what pitfalls the experienced parents stepped into".
 
-### 美柚（孕期 / 产后都用得上 ✅）
+### Xiaohongshu / Little Red Book
 
-- **定位**：女性健康管理 App，**孕 + 产 + 育儿**一站式
-- **适合场景**：
-  - 备孕：排卵期记录 / 受孕概率
-  - 孕期：胎动 / 体重 / 产检时间 / 注意事项
-  - 产后：恶露 / 月子 / 哺乳 / 宝宝发育
-  - 育儿：疫苗 / 喂养 / 睡眠记录
-- **优点**：
-  - ✅ 一站式（不用换多个 App）
-  - ✅ 提醒功能强（产检 / 疫苗 / 吃药）
-  - ✅ 社区内容（但同样需甄别）
-- **使用建议**：
-  - ✅ **作为记录工具**用，主页功能很扎实
-  - ✅ 社区内容**仅参考**，不作决策依据
-  - ❌ **不依赖 App 的医学建议**——异常情况仍去阿福 / 医院
+- **Positioning**: UGC content platform, **real sharing from moms / dads**
+- **Suitable scenarios**:
+  - Choosing formula / diapers / bottles — see **real usage feedback + horizontal comparison**
+  - Baby soothing / night-weaning / starting solids — see **experienced parents' tips**
+  - Postpartum meals / recovery — see **actual family operations**
+- **Advantages**:
+  - ✅ Content updates fast (more timely than traditional parenting books)
+  - ✅ Many real scenarios (photo + video, see actual how-to)
+  - ✅ Comment section often has "experienced parents" supplementing
+- **Usage suggestions**:
+  - ✅ **Read 3-5 posts** on the same topic, look for consensus
+  - ✅ Focus on **comment section** — more real than the post body
+  - ❌ **Don't trust any single post** — content quality varies
+  - ❌ **Don't copy medication / treatment** — only reference the approach, not the regimen
+  - ❌ **Beware of soft ads** — "my baby used X and got better" may be a sales pitch
 
-### 其他可备
+### 5-step content vetting
 
-- **宝宝树**（育儿向）—— 偏宝宝记录 + 早期教育
-- **亲宝宝**（记录向）—— 偏宝宝成长记录 + 家庭共享
-
----
-
-## 4. 使用注意（重要）
-
-### 三大原则
-
-1. **多源交叉** —— 任何重要决策，**至少问 2 个工具 + 1 个真人医生**
-2. **医学优先** —— 涉及用药 / 治疗 / 症状判断，**蚂蚁阿福 / 医生 > 小红书 / 美柚社区**
-3. **个体差异** —— 别的家长经验**仅供参考**，不保证对你家娃适用
-
-### 红灯信号（任何工具都不能替代就医）
-
-- 高热 ≥ 38°C（新生儿期）
-- 呼吸困难 / 面色发紫
-- 持续呕吐 / 抽搐
-- 意识不清
-- 严重外伤 / 出血
-
-> 出现以上情况 → **直接拨打 120 / 立即去最近医院急诊**
-> **不要**用任何 App 替代急救
+1. **Check account** — real person vs marketing account?
+2. **Check comment section** — do other parents give consistent feedback?
+3. **Check timing** — what age was the baby when posted? Close to your situation?
+4. **Check motivation** — any links / traffic-driving?
+5. **Cross-verify** — for medical questions, check on **Ant Afu**
 
 ---
 
-## 5. 本节定位
+## 3. Pregnancy management (tool-oriented)
 
-- 本清单**实测过 3 个核心工具**：蚂蚁阿福 / 小红书 / 美柚
-- 其他工具**列出来供参考**——没用过 / 没测过，不作背书
-- 工具更新快——本文档**不保证永远最新**
-- 任何工具出现重大问题 / 倒闭 → 欢迎补充替代品
+> Suitable for: from pre-pregnancy through postpartum, **full-cycle recording + reminders**.
+
+### Meiyou
+
+- **Positioning**: women's health management app, **pregnancy + birth + parenting** one-stop
+- **Suitable scenarios**:
+  - Pre-pregnancy: ovulation tracking / conception probability
+  - Pregnancy: fetal movement / weight / checkup schedule / precautions
+  - Postpartum: lochia / confinement / lactation / baby development
+  - Parenting: vaccines / feeding / sleep records
+- **Advantages**:
+  - ✅ One-stop (no need to switch apps)
+  - ✅ Strong reminders (checkup / vaccine / medication)
+  - ✅ Community content (but also needs vetting)
+- **Usage suggestions**:
+  - ✅ **Use as a recording tool**, main page is solid
+  - ✅ Community content **for reference only**, not for decisions
+  - ❌ **Don't rely on app's medical advice** — abnormal situations still go to Ant Afu / hospital
+
+### Other alternatives
+
+- **BabyTree** (parenting-oriented) — biased toward baby records + early education
+- **Qinbaobao** (recording-oriented) — biased toward baby growth records + family sharing
 
 ---
 
-**最后更新**：随项目持续维护
+## 4. Usage notes (important)
+
+### Three principles
+
+1. **Multi-source cross-check** — for any important decision, **ask at least 2 tools + 1 real doctor**
+2. **Medical priority** — for medication / treatment / symptom judgment, **Ant Afu / doctor > Xiaohongshu / Meiyou community**
+3. **Individual differences** — other parents' experience **is for reference only**, not guaranteed applicable to your baby
+
+### Red flag signals (no tool can replace medical care)
+
+- High fever ≥ 38°C (newborn period)
+- Difficulty breathing / blueish face
+- Persistent vomiting / convulsions
+- Loss of consciousness
+- Severe trauma / bleeding
+
+> Any of the above → **call 120 immediately / go to nearest hospital emergency**
+> **Do NOT** use any app to replace emergency care
+
+---
+
+## 5. Scope of this section
+
+- This list covers **3 core tools**: Ant Afu / Xiaohongshu / Meiyou
+- Other tools are **listed for reference** — not tested / not personally used, no endorsement
+- Tools update fast — this document **does not guarantee always up-to-date**
+- If any tool has major issues / shuts down → welcome to suggest alternatives
+
+---
+
+**Last updated**: see git history

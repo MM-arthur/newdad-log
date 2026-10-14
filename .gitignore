@@ -1,0 +1,43 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+
+# Build / cache
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets (should never be committed, but just in case)
+.env
+.env.local
+*.pem
+*.key
+
+# Vega / Nova session artifacts
+.vega/
+.nova/
+.claude/
+
+# ──────────────────────────────────────────────────────────────────────
+# Internal team artifacts (NEVER commit — not part of the open-source KB)
+# ──────────────────────────────────────────────────────────────────────
+# Internal workflow / hand-over / SOP files for the maintainer team.
+# These must NEVER enter this public repo. Keep them under your home
+# Hermes workspace instead:
+#   ~/.hermes/sop/              (project SOPs / workflows)
+#   ~/.hermes/notes/<project>/  (hand-over notes, outside any project repo)
+#
+# Examples seen in this repo's history (must stay ignored):
+#   .sop-v1.md
+#   .handoff-to-nova.md
+/.sop*.md
+/.handoff*.md

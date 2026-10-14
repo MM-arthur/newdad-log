@@ -1,41 +1,41 @@
-# 新生儿便便观察（0-1 月）
+# Newborn stool observation (0-1 month)
 
-> ⚠️ **仅作参考，不构成医疗建议**。具体请遵医嘱。
-> 适用：足月健康新生儿；早产 / 特殊医学情况需遵医嘱。
+> ⚠️ **For reference only, does not constitute medical advice**. Follow doctor's guidance.
+> Applies to: healthy full-term newborns; premature / special medical conditions must follow doctor's advice.
 
-## 5 步判断法
+## 5-step judgment
 
-1. 次数：便便次数 ≤ 喂养次数（母乳娃 5-8 次/天都正常）
-2. 颜色变化时间线：
-   - 出生 0-3 天：黑色 / 墨绿色（胎便）
-   - 第 4-6 天：黄绿色过渡
-   - 第 7 天后：黄色（母乳）/ 土黄色（配方奶）
-3. 质地：糊状 / 软膏状 = 正常
-4. 气味：母乳便酸 / 配方奶便臭 = 都正常
-5. 异常 vs 正常对照（看下面）
+1. Frequency: stool count ≤ feeding count (breastfed 5-8 times/day all normal)
+2. Color timeline:
+   - Day 0-3: black / dark green (meconium)
+   - Day 4-6: yellow-green transition
+   - After day 7: yellow (breast) / earth yellow (formula)
+3. Texture: paste / ointment-like = normal
+4. Smell: breast stool sour / formula stool smelly = both normal
+5. Abnormal vs normal comparison (see below)
 
-## 7 大红灯（立即就医）
+## 7 red flags (see doctor immediately)
 
-- 红色血便
-- 黑色便（非胎便期）
-- 白色 / 灰色便（胆道问题红旗）
-- 水样便 > 3 次/天（腹泻）
-- 持续便秘 > 2 天
-- 便便带粘液 / 脓液
-- 便便 + 拒奶 + 哭闹三联
+- Bloody stool (red)
+- Black stool (non-meconium period)
+- White / gray stool (biliary tract red flag)
+- Watery stool > 3 times/day (diarrhea)
+- Persistent constipation > 2 days
+- Stool with mucus / pus
+- Stool + feeding refusal + crying triad
 
-## 5 大常见误区
+## 5 common myths
 
-- 觉得"绿便就是受凉"
-- 攒肚 = 便秘（攒肚 3-5 天无渣属正常）
-- 母乳便稀 = 腹泻
-- 配方奶便干 = 缺水（不一定）
-- 自行给宝宝用药止泻
+- "Green stool = caught cold"
+- Infrequent stooling = constipation (3-5 days no stool residue is normal)
+- Watery breast stool = diarrhea
+- Dry formula stool = dehydration (not necessarily)
+- Self-medicating baby for diarrhea
 
 ## quick check
 
-- [ ] 次数 ≤ 喂养次数
-- [ ] 第 7 天后转黄色
-- [ ] 不带血 / 白 / 黑
-- [ ] 不水样 > 3 次
-- [ ] 出现 7 红灯之一立即就医
+- [ ] Frequency ≤ feeding count
+- [ ] Turns yellow after day 7
+- [ ] No blood / white / black
+- [ ] Not watery > 3 times
+- [ ] Any 1 of 7 red flags = see doctor immediately

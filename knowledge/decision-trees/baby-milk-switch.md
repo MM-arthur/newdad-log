@@ -1,49 +1,49 @@
-# 宝宝换奶粉（足月健康宝宝适用）
+# Baby formula switch (for healthy full-term babies)
 
-> ⚠️ **仅作参考，不构成医疗建议**。具体请遵医嘱。
-> 适用：足月健康宝宝；早产 / 过敏 / 医用奶粉切换需遵医嘱。
+> ⚠️ **For reference only, does not constitute medical advice**. Follow doctor's guidance.
+> Applies to: healthy full-term babies; premature / allergic / medical formula switch must follow doctor's advice.
 
-## 灰度策略：5 步换奶法
+## Gradual strategy: 5-step switch method
 
-每餐按比例混合旧 + 新奶粉，每步观察 2 天，整体窗口 7 天。
+Mix old + new formula by ratio at each feeding, observe 2 days per step, total window 7 days.
 
-| 步骤 | 时间 | 旧奶粉 | 新奶粉 |
+| Step | Time | Old formula | New formula |
 |---|---|---|---|
-| 1 | 第 1-2 天 | 3/4 | 1/4 |
-| 2 | 第 3-4 天 | 2/4 | 2/4 |
-| 3 | 第 5-6 天 | 1/4 | 3/4 |
-| 4 | 第 7 天 | 0 | 全新 |
+| 1 | Day 1-2 | 3/4 | 1/4 |
+| 2 | Day 3-4 | 2/4 | 2/4 |
+| 3 | Day 5-6 | 1/4 | 3/4 |
+| 4 | Day 7 | 0 | Brand new |
 
-观察满 7 天无异常 = 切换完成。
+Full 7 days observed with no abnormality = switch complete.
 
-## 7 大红灯（立即停换并就医）
+## 7 red flags (stop switching and see doctor immediately)
 
-- 持续腹泻（> 3 次/天，水样便）
-- 便秘 > 2 天
-- 反复吐奶（> 3 次/餐）
-- 全身红疹 / 荨麻疹
-- 面部 / 口唇肿胀
-- 呼吸急促 / 喘鸣
-- 持续哭闹 > 3 小时无法安抚
+- Persistent diarrhea (> 3 times/day, watery stool)
+- Constipation > 2 days
+- Repeated spit-up (> 3 times/feed)
+- Whole-body rash / urticaria
+- Facial / lip swelling
+- Rapid breathing / wheezing
+- Persistent crying > 3 hours unsoothable
 
-## 5 大常见误区
+## 5 common myths
 
-- 一步到位直接换（肠道来不及适应）
-- 两款奶粉混在同一瓶（比例难控制）
-- 观察期 < 3 天就下结论
-- 看别家娃喝啥就跟风
-- 用"贵的就是好"判断
+- Switch all at once (gut can't adapt)
+- Mix two formulas in the same bottle (ratio hard to control)
+- Conclude in < 3 days observation
+- Follow what other babies drink
+- "Expensive = good" judgment
 
-## 3 个换奶时机注意
+## 3 timing cautions for switching
 
-- 季节：避免在接种疫苗前后 3 天换
-- 身体：避免在生病 / 腹泻恢复期换
-- 环境：避免在转奶同时添加新辅食
+- Season: avoid 3 days before/after vaccination
+- Body: avoid during illness / diarrhea recovery
+- Environment: avoid adding new solid foods at the same time
 
 ## quick check
 
-- [ ] 每天只加 1/4 比例
-- [ ] 观察 7 天无异常再下结论
-- [ ] 不在疫苗 / 生病期换
-- [ ] 不跟新辅食同步加
-- [ ] 出现 7 红灯之一立即停换并就医
+- [ ] Only add 1/4 ratio per day
+- [ ] Observe 7 days before concluding
+- [ ] Not during vaccination / illness
+- [ ] Not at the same time as new solid food
+- [ ] Any 1 of 7 red flags = stop switching and see doctor immediately

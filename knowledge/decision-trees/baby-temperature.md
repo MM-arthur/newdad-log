@@ -1,131 +1,131 @@
-# 新生儿体温 & 室温
+# Newborn temperature & room temperature
 
-> ⚠️ **仅作参考，不构成医疗建议**。具体请遵医嘱。
-> **Skill 定位**：只录框架（**测温、保温不捂、判断冷热**）和**容易踩的坑**。
-> 不录：具体保暖产品对比、每个品牌的优缺点（医学库/购物 app 比这全）。
-
----
-
-## 测温（基础框架）
-
-- **正常范围**：36.5 - 37.3°C
-- **最佳室温**：24 - 26°C
-- **原则**：新生儿体温调节差，**既怕冷也怕热**，不是"保暖就够了"
+> ⚠️ **For reference only, does not constitute medical advice**. Follow doctor's guidance.
+> **Skill positioning**: Only record the framework (**measuring, keep warm without overheating, judging hot/cold**) and **common pitfalls**.
+> Not recorded: specific warm-keeping product comparisons, brand pros/cons (medical DB / shopping apps have more than this).
 
 ---
 
-## ⭐ 容易踩的坑
+## Temperature measurement (basic framework)
 
-> 这部分比"怎么测"更重要——新手家长容易走极端。
-
-### 怕冷方向
-
-- ❌ **"宝宝手脚凉 = 冷"** —— **不一定**！新生儿末梢循环差，
-  手脚凉是正常的。**判断冷热看后脖颈或胸口温度**，
-  不是手脚
-- ❌ **"空调不能开"** —— 室温 24-26°C 时**可以开空调**，
-  怕的是对着宝宝直吹
-- ❌ **"宝宝要多穿"** —— 比大人**多半件**就行，
-  穿太多捂汗反而容易着凉
-
-### 怕热方向
-
-- ❌ **"发烧先盖厚被子捂汗"** —— **绝对错**！新生儿发热
-  应**减少衣物 + 适当物理降温**，捂着会让温度飙得更高
-- ❌ **"发烧 = 危险，必须立刻 38.5°C 退烧药"** —— 新生儿
-  **任何 ≥38°C 都建议就医**，不要自行用药
-- ❌ **"夏天多喝水散热"** —— 新生儿补水要**算奶量**，
-  单纯喂水可能加重肾负担
+- **Normal range**: 36.5 - 37.3°C
+- **Best room temp**: 24 - 26°C
+- **Principle**: Newborns have poor thermoregulation, **both fear cold and fear heat**, not just "keep warm enough"
 
 ---
 
-## ⭐ 小红疹 = 热疹 vs 过敏速判
+## ⭐ Common pitfalls
 
-> 身上起小红疹，**绝大多数情况是热出来的**，不是过敏。
-> 别一上来就怀疑奶粉 / 母乳 / 食物过敏，先排查"捂"。
+> This matters more than "how to measure" — new parents tend to go to extremes.
 
-### 5 步热疹判断法
+### Cold-fearing direction
 
-1. 疹子位置：额头 / 脖子 / 胸口 / 背（褶皱处）= 绝大多数是热疹
-2. 疹子形态：针尖大小、密集成片、透明 / 白色小颗粒
-3. 出疹时间：穿多盖厚 / 室温高 / 喂奶后体温略升时出
-4. 退疹时间：减衣 / 降温后 **30 分钟 - 2 小时** 明显消退
-5. 宝宝状态：精神好、吃奶正常、不烦躁
+- ❌ **"Baby's hands/feet cold = cold"** — **not necessarily**! Newborns have poor peripheral circulation,
+  cold hands/feet are normal. **Judge hot/cold by back of neck or chest temperature**,
+  not hands/feet
+- ❌ **"Can't use AC"** — at room temp 24-26°C, **AC can be used**,
+  the fear is direct draft on the baby
+- ❌ **"Baby needs more clothes"** — just **half a layer more than adults**,
+  overdressing causes sweat and easier to catch cold
 
-→ 以上 5 条全中 = 大概率**热疹**，处理 = 减衣 + 通风 + 室温降到 24-26°C
+### Heat-fearing direction
 
-### 5 步过敏判断法
+- ❌ **"Fever = cover with thick blanket to sweat it out"** — **absolutely wrong**! Newborn fever
+  should **reduce clothing + appropriate physical cooling**, covering makes temperature spike higher
+- ❌ **"Fever = dangerous, must give 38.5°C antipyretic immediately"** — for newborns
+  **any ≥38°C warrants medical visit**, do not self-medicate
+- ❌ **"Give more water in summer to cool down"** — newborn hydration must **count milk volume**,
+  plain water alone may burden kidneys
 
-1. 疹子位置：脸颊 / 全身散在 / 关节处（与捂的位置不一致）
-2. 疹子形态：红色斑丘疹、风团样、**瘙痒明显**（宝宝抓脸蹭衣）
-3. 触发时间：接触新食物 / 奶粉 / 衣物材质 / 洗护用品后
-4. 持续时间：减衣降温后**不消退**，甚至加重
-5. 伴随症状：拒奶 / 呕吐 / 腹泻 / 哭闹不止
+---
 
-→ 命中 1 项以上 = 可能是过敏，建议就医排查
+## ⭐ Little red rash = heat rash vs allergy quick judge
 
-### 5 大常见误区
+> A small red rash on the body, **in most cases is from heat**, not allergy.
+> Don't jump to suspecting formula / breast milk / food allergy; check "overheating" first.
 
-- ❌ 看到疹子就停母乳 / 换奶粉（**绝大多数时候没必要**）
-- ❌ 涂"湿疹膏"治疗热疹（**热疹不需要药**，降温就好）
-- ❌ 一上来做过敏源检测（**热疹不需要测过敏**）
-- ❌ 觉得"出疹子就是缺钙" / "缺维生素"
-- ❌ 给宝宝穿更多"挡住风"（**疹子越捂越重**）
+### 5-step heat rash judgment
+
+1. Rash location: forehead / neck / chest / back (folds) = mostly heat rash
+2. Rash form: pinhead-sized, dense clusters, transparent / white small particles
+3. Onset timing: when overdressed / room too warm / slight temp rise after feeding
+4. Subsiding time: **30 min - 2 hours** after undressing / cooling
+5. Baby state: alert, feeding normally, not fussy
+
+→ All 5 above = high probability **heat rash**, treatment = undress + ventilate + lower room temp to 24-26°C
+
+### 5-step allergy judgment
+
+1. Rash location: cheeks / scattered whole body / joint areas (not where overdressed)
+2. Rash form: red maculopapular, urticarial, **obvious itching** (baby scratching face / rubbing clothes)
+3. Trigger timing: after contact with new food / formula / clothing material / wash products
+4. Duration: **does not subside** after undressing / cooling, may worsen
+5. Accompanying symptoms: feeding refusal / vomiting / diarrhea / nonstop crying
+
+→ 1+ items hit = possibly allergic, recommend medical check
+
+### 5 common myths
+
+- ❌ Stop breast milk / switch formula at first sight of rash (**mostly unnecessary**)
+- ❌ Apply "eczema cream" to treat heat rash (**heat rash needs no medication**, just cooling)
+- ❌ Run allergy panel right away (**heat rash doesn't need allergy test**)
+- ❌ Think "rash = calcium deficiency" / "vitamin deficiency"
+- ❌ Dress baby more to "block the wind" (**rash worsens with more covering**)
 
 ### quick check
 
-- [ ] 疹子在褶皱处（额头/脖子/胸口/背）= 倾向热疹
-- [ ] 减衣 30 分钟后明显消退 = 大概率热疹
-- [ ] 疹子 + 瘙痒 + 拒奶 = 倾向过敏
-- [ ] 不擅自停奶 / 换奶粉
-- [ ] 过敏伴随拒奶 / 呕吐 / 呼吸急促立即就医
+- [ ] Rash on folds (forehead/neck/chest/back) = likely heat rash
+- [ ] Subsides noticeably 30 min after undressing = most likely heat rash
+- [ ] Rash + itching + feeding refusal = likely allergy
+- [ ] Do not stop milk / switch formula on your own
+- [ ] Allergy with feeding refusal / vomiting / rapid breathing = see doctor immediately
 
-### 与过敏的交叉
+### Allergy cross-references
 
-- 热疹可能跟湿疹同时存在——湿疹是慢性、反复的，热疹是急性的
-- 母乳妈妈吃了新食物（海鲜 / 牛奶）→ 宝宝可能过敏 → 需记录饮食日记
-- 新换奶粉 / 辅食后 24-48h 内出疹 → 重点怀疑食物过敏
-- 宝宝反复热疹 → 排查是否长期室温过高 / 穿盖过多
-
----
-
-### 测温方式
-
-- ❌ **"水银温度计最准"** —— 国家**已禁用水银温度计**（摔碎汞中毒）
-- ✅ 用**电子腋温**或**额温枪**
-- ✅ 测温前**擦干腋下**（汗影响读数）
+- Heat rash may coexist with eczema — eczema is chronic, recurring; heat rash is acute
+- Breastfeeding mom ate new food (seafood / dairy) → baby may be allergic → keep a diet diary
+- New formula / solid food within 24-48h + rash → focus on food allergy
+- Recurring heat rash → check if long-term room temp too high / overdressed
 
 ---
 
-## Quick check 模板（Vega 判断时按这个问）
+### Measurement methods
 
-1. 出生几天了？
-2. 现在体温多少？用什么测的？
-3. 后脖颈/胸口温度？（判断冷热的关键）
-4. 室温多少？开了空调吗？对吹吗？
-5. 穿了几件？跟大人比多几件？
-6. 有没有其他症状？（吃奶差/嗜睡/哭闹异常）
-
-→ 体温 < 36°C / > 38°C / **手脚凉但后颈热**（内热外冷假象）= 立刻去医院
-→ 室温过高 / 捂得太厚 = 提醒开窗通风、减衣
+- ❌ **"Mercury thermometer is most accurate"** — country **already banned mercury thermometers** (broken → mercury poisoning)
+- ✅ Use **electronic axillary** or **forehead (temporal) thermometer**
+- ✅ **Wipe dry the armpit** before measuring (sweat affects reading)
 
 ---
 
-## 与黄疸的交叉
+## Quick check template (used by any reader / agent before responding)
 
-> 黄疸治疗（光疗）期间，**室温管理更重要**：
-> - 光疗箱本身发热 → 室温不能太高
-> - 光疗时宝宝只穿尿布 → 注意保温
-> - 出光疗箱后过渡期也要观察体温
+1. How many days after birth?
+2. What's the current temperature? What was used to measure?
+3. Back of neck / chest temperature? (key for judging hot/cold)
+4. What's the room temperature? AC on? Direct draft?
+5. How many layers? How many more than adults?
+6. Any other symptoms? (poor feeding / drowsy / abnormal crying)
+
+→ Temp < 36°C / > 38°C / **cold hands/feet but warm back of neck** (false "cold outside, hot inside") = go to hospital immediately
+→ Room too warm / overdressed = remind to ventilate, undress
 
 ---
 
-## 当爸口诀
+## Cross-reference with jaundice
+
+> During jaundice treatment (phototherapy), **room temp management matters more**:
+> - Phototherapy box itself generates heat → room temp cannot be too high
+> - During phototherapy, baby only wears diaper → keep warm
+> - Transition period after leaving phototherapy box also needs temp observation
+
+---
+
+## New-dad mnemonic
 
 ```
-看后颈不摸手脚（判断冷热）
-多半件不多两件（跟大人比）
-24-26 开空调不直吹（室温）
-36.5-37.3 都正常（体温范围）
-≥38 或 ≤36 立刻去医院
+Neck not hands/feet (judge hot/cold)
+Half a layer more not two (vs adults)
+24-26 AC no direct draft (room temp)
+36.5-37.3 all normal (temp range)
+≥38 or ≤36 hospital immediately
 ```

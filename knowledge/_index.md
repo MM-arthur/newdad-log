@@ -5,12 +5,12 @@
 ## File list
 
 - decision-trees/ — "What to do when X happens" decision trees
-  - [baby-jaundice.md](decision-trees/baby-jaundice.md) / [English](decision-trees/baby-jaundice.en.md) — Jaundice judgment
-  - [baby-temperature.md](decision-trees/baby-temperature.md) / [English](decision-trees/baby-temperature.en.md) — Temperature, room temp, heat rash vs allergy
-  - [baby-gas.md](decision-trees/baby-gas.md) / [English](decision-trees/baby-gas.en.md) — Intestinal gas vs stomach gas
-  - [baby-milk-switch.md](decision-trees/baby-milk-switch.md) / [English](decision-trees/baby-milk-switch.en.md) — Milk powder switch (healthy full-term baby)
-  - [baby-feeding-rhythm.md](decision-trees/baby-feeding-rhythm.md) / [English](decision-trees/baby-feeding-rhythm.en.md) — Newborn feeding rhythm (0-1 month)
-  - [baby-stool-observation.md](decision-trees/baby-stool-observation.md) / [English](decision-trees/baby-stool-observation.en.md) — Newborn stool observation (0-1 month)
+  - [baby-jaundice.md](decision-trees/baby-jaundice.md) / [English](decision-trees/baby-jaundice.zh.md) — Jaundice judgment
+  - [baby-temperature.md](decision-trees/baby-temperature.md) / [English](decision-trees/baby-temperature.zh.md) — Temperature, room temp, heat rash vs allergy
+  - [baby-gas.md](decision-trees/baby-gas.md) / [English](decision-trees/baby-gas.zh.md) — Intestinal gas vs stomach gas
+  - [baby-milk-switch.md](decision-trees/baby-milk-switch.md) / [English](decision-trees/baby-milk-switch.zh.md) — Milk powder switch (healthy full-term baby)
+  - [baby-feeding-rhythm.md](decision-trees/baby-feeding-rhythm.md) / [English](decision-trees/baby-feeding-rhythm.zh.md) — Newborn feeding rhythm (0-1 month)
+  - [baby-stool-observation.md](decision-trees/baby-stool-observation.md) / [English](decision-trees/baby-stool-observation.zh.md) — Newborn stool observation (0-1 month)
 
 ## Data sources
 

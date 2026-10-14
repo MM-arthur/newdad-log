@@ -1,38 +1,38 @@
-# 新生儿喂养节奏（0-1 月）
+# Newborn feeding rhythm (0-1 month)
 
-> ⚠️ **仅作参考，不构成医疗建议**。具体请遵医嘱。
-> 适用：足月健康新生儿；早产 / 低体重 / 特殊医学情况需遵医嘱。
+> ⚠️ **For reference only, does not constitute medical advice**. Follow doctor's guidance.
+> Applies to: healthy full-term newborns; premature / low birth weight / special medical conditions must follow doctor's advice.
 
-## 5 步判断法
+## 5-step judgment
 
-1. 出生 24h 内：8-12 次/天（含夜间）= 正常
-2. 第 2-7 天：8 次/天（每 3 小时一次）= 主流节奏
-3. 喂奶间隔 2.5-3.5 小时都属正常（看个体）
-4. 单次时长：母乳 15-20 分钟 / 配方奶 10-15 分钟
-5. 24h 总量参考：母乳按需 / 配方奶按体重
+1. Within 24h of birth: 8-12 times/day (including night) = normal
+2. Day 2-7: 8 times/day (every 3 hours) = mainstream rhythm
+3. Feeding interval 2.5-3.5 hours is all normal (individual differences)
+4. Single feed duration: breast 15-20 min / formula 10-15 min
+5. 24h total reference: breast on demand / formula by weight
 
-## 7 大红灯（立即就医）
+## 7 red flags (see doctor immediately)
 
-- 24h 喂 < 6 次
-- 单次睡眠 > 4 小时（新生儿期需叫醒喂）
-- 体重下降 > 出生体重 7%
-- 第 10 天还没恢复出生体重
-- 尿片 < 6 片/天
-- 喂奶时持续哭闹拒绝
-- 喷射性呕吐
+- < 6 feeds in 24h
+- Single sleep > 4 hours (newborn period needs to be woken to feed)
+- Weight loss > 7% of birth weight
+- Not back to birth weight by day 10
+- < 6 wet diapers/day
+- Persistent crying refusal during feeding
+- Projectile vomiting
 
-## 5 大常见误区
+## 5 common myths
 
-- 严格卡 3 小时（个别娃会饿）
-- 哭了就喂（不一定是饿）
-- 看别家娃量就焦虑
-- 加水 / 加果汁"下火"
-- 夜奶一次性断掉
+- Strictly 3-hour intervals (some babies get hungry)
+- Feed whenever crying (not always hunger)
+- Anxious looking at other babies' amounts
+- Add water / juice to "clear heat"
+- Stop night feeds all at once
 
 ## quick check
 
-- [ ] 24h 喂 8-12 次
-- [ ] 尿片 6 片以上
-- [ ] 第 10 天恢复出生体重
-- [ ] 不严格卡 3 小时
-- [ ] 出现 7 红灯之一立即就医
+- [ ] 8-12 feeds in 24h
+- [ ] 6+ wet diapers
+- [ ] Back to birth weight by day 10
+- [ ] Not strictly 3-hour intervals
+- [ ] Any 1 of 7 red flags = see doctor immediately

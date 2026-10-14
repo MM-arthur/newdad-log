@@ -1,92 +1,91 @@
-# 黄疸（新生儿）
+# Jaundice (newborn)
 
-> ⚠️ **仅作参考，不构成医疗建议**。具体请遵医嘱。
-> **Skill 定位**：只记录框架（**什么时候该担心**、**怎么测**、**基本类型**）和**网上/医生嘴里查不到/有争议的点**。
-> 详细的医学阈值、用药剂量、剂量表——**不录**（任何 agent 装上百度/医学数据库都比这全）。
-
----
-
-## 何时需要找医生（红灯信号）⭐⭐⭐
-
-> 当爸最该记住的——别等到出事才去看。
-
-- 🟥 生后 24h 内出现黄疸
-- 🟥 **生后 2-3 天升得快**（一天明显变黄、眼白明显黄）——医学科普常仅提及 24h 窗口，但 2-3 天生理性快速上升期**升速**本身更值得关注
-- 🟥 手心脚心都黄（"黄到四肢末端"）
-- 🟥 宝宝嗜睡、难醒、吃奶差
-- 🟥 大便灰白色 / 陶土便
-- 🟥 黄疸 >2 周仍持续加深
-- 🟥 出院后 3-5 天未复查（黄疸峰值期）
-
-→ **出现任何一项，当天去医院。**
+> ⚠️ **For reference only, does not constitute medical advice**. Follow doctor's guidance.
+> **Skill positioning**: Only record the framework (when to worry, how to measure, basic types) and **points not found online / doctor opinions differ on**. Detailed medical thresholds, medication doses, dose tables — **not recorded** (any agent with Baidu / medical database has more than this).
 
 ---
 
-## 框架
+## When to find a doctor (red flag signals) ⭐⭐⭐
 
-### 三个基本类型
+> What new dads must remember — don't wait until something goes wrong to seek care.
 
-| 类型 | 出现时间 | 一句话 |
+- 🟥 Jaundice appears within 24h after birth
+- 🟥 **Rises rapidly 2-3 days after birth** (visibly more yellow each day, sclera obviously yellow) — public medical education often mentions only the 24h window, but during the 2-3 day physiological rapid-rise period the **rate of rise itself** is more noteworthy
+- 🟥 Palms and soles both yellow ("yellowing extends to extremities")
+- 🟥 Baby drowsy, hard to wake, poor feeding
+- 🟥 Stool is gray-white / clay-colored
+- 🟥 Jaundice continues to deepen > 2 weeks
+- 🟥 No recheck 3-5 days after discharge (peak jaundice period)
+
+→ **Any one item = go to the hospital that day.**
+
+---
+
+## Framework
+
+### Three basic types
+
+| Type | Onset time | One-liner |
 |---|---|---|
-| 生理性 | 2-3 天起 | 最常见，多数自己退 |
-| 病理性 | 24h 内 / 持续 >2 周 | 必须查因 |
-| 母乳性 | 1 周后起 | 不一定停母乳 |
+| Physiological | From 2-3 days | Most common, mostly self-resolves |
+| Pathological | Within 24h / persists > 2 weeks | Must investigate cause |
+| Breast milk | From 1 week | Not necessarily stop breastfeeding |
 
-### 测的方式
+### Measurement methods
 
-- **经皮（TCB）** —— 门诊/家用，**最常用**，误差 ±2-3 mg/dL
-- **抽血（TSB）** —— 金标准，**必要时用**
+- **Transcutaneous (TCB)** — outpatient / home use, **most common**, error ±2-3 mg/dL
+- **Blood draw (TSB)** — gold standard, **use when necessary**
 
-**判断黄不黄别光看脸，看眼白和四肢末段。**
-
----
-
-## ⭐ 查不到/有争议的内容
-
-> 这部分才是 skill 该录的——不是"黄疸是什么"，而是"网上/医生嘴里说法不一的事"。
-
-### 误区清单
-
-- ❌ **"晒太阳退黄"** —— 阳光强度不够，可能晒伤。医院蓝光才是有效波长
-- ❌ **"喂糖水退黄"** —— 反效果，可能加重。增加母乳喂养频率才有用
-- ❌ **"茵栀黄绝对安全"** —— 国内 2016 CFDA 禁用**注射液**；口服液有腹泻副作用，部分医院还在用
-- ❌ **"母乳性黄疸要停母乳"** —— **多数不需要停**，加强喂养就行；只有严重才暂停 24-48h 观察
-- ❌ **"出院时正常就 OK"** —— **黄疸峰值在 3-5 天**，出院后必须复查
-
-### 医生不主动告诉你的，但容易被坑的
-
-- ⚠️ **黄疸值单位混乱**：医院说"12"，可能是 mg/dL 也可能是 mg%（差 10 倍）。**确认单位**
-- ⚠️ **皮试仪挑肤色**：深肤色宝宝皮试读数偏低，**必要时抽血复测**
-- ⚠️ **光疗不是退完就完**：复发率存在，复查必须
-- ⚠️ **当爸判断"看着不黄"不可靠**：医师说"没事"时，**家长要问具体数值和阈值**——记录下来便于追踪
+**Don't judge by face alone; check sclera and extremities.**
 
 ---
 
-## Quick check 模板（Vega 判断时按这个问）
+## ⭐ Not found online / controversial content
 
-1. 出生几天了？黄疸是突然出现的还是慢慢出现的？
-2. 黄疸出现多久？哪里黄？（脸 / 胸 / 四肢末端）
-3. **每天肉眼观察是不是在加重**？（一天比一天明显黄 = 升得快）
-4. 食欲/精神/便便正常？
-5. 上次测的数值是多少？单位是什么？
-6. 是不是出院后该复查的 3-5 天窗口？
+> This is what the Skill should record — not "what is jaundice", but "things online / doctors disagree on".
 
-→ 红任何一项 = 当天去医院
-→ 全否 = 告诉用户当前阶段、是否观察、什么时候复查
+### Myth list
+
+- ❌ **"Sun exposure cures jaundice"** — sunlight intensity insufficient, may cause sunburn. Hospital blue light is the effective wavelength
+- ❌ **"Sugar water cures jaundice"** — counterproductive, may worsen. Increasing breastfeeding frequency is what works
+- ❌ **"Yinzhihuang is absolutely safe"** — China 2016 CFDA banned the **injection**; oral solution has diarrhea side effects, some hospitals still use it
+- ❌ **"Breast-milk jaundice requires stopping breastfeeding"** — **mostly not needed**, just increase feeding; only severe cases pause 24-48h for observation
+- ❌ **"Normal at discharge = OK"** — **jaundice peaks at 3-5 days**, must recheck after discharge
+
+### What doctors don't proactively tell you, but easy to fall into
+
+- ⚠️ **Jaundice value unit confusion**: doctor says "12", could be mg/dL or mg% (10x difference). **Confirm the unit**
+- ⚠️ **Skin-test device is skin-color sensitive**: dark-skinned babies read lower, **draw blood to recheck when necessary**
+- ⚠️ **Phototherapy is not done once you're done**: recurrence exists, recheck is mandatory
+- ⚠️ **Dad's "doesn't look yellow" judgment is unreliable**: when doctor says "fine", **parents should ask specific values and thresholds** — record for tracking
 
 ---
 
-## 沉淀到 skill 的格式
+## Quick check template (used by any reader / agent before responding)
+
+1. How many days after birth? Did jaundice appear suddenly or gradually?
+2. How long has jaundice been present? Where is the yellow? (face / chest / extremities)
+3. **Is it getting worse day by day on visual observation?** (visibly more yellow each day = rising fast)
+4. Appetite / mood / stool normal?
+5. What was the last measured value? What was the unit?
+6. Is it the 3-5 day window after discharge that should be rechecked?
+
+→ Any red = go to the hospital that day
+→ All no = tell user current stage, whether to observe, when to recheck
+
+---
+
+## What to record in the Skill
 
 ```
-✓ 红灯信号（必须留 —— 当爸必背）
-✓ 三个类型（框架级 —— 必须留）
-✓ 测方式（TCB / TSB —— 框架级）
-✗ 详细阈值（曲线数字）—— 不录（医学库比这全）
-✓ 误区清单（争议点 —— 必须留）
-✓ "查不到的内容"—— 必须留
+✓ Red flag signals (must keep — must memorize for new dads)
+✓ Three types (framework level — must keep)
+✓ Measurement methods (TCB / TSB — framework level)
+✗ Detailed thresholds (curve numbers) — not recorded (medical DB has more)
+✓ Myth list (controversial points — must keep)
+✓ "Content not found online" — must keep
 ```
 
-## 沉淀方法（自我规则）
+## Sedimentation method (self-rule)
 
-Vega 下次默认按这个标准：先写框架 + 争议点 + 误区，详细数字/剂量/阈值默认不录，除非用户明确说"录这个"。
+Maintainer's default standard: framework + controversial points + myths first; detailed numbers / doses / thresholds not recorded by default, unless explicitly requested to record specific values.

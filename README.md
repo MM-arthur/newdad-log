@@ -1,180 +1,180 @@
 # NewDad Log
 
-> 奶爸视角的**新生儿专家知识库**——
-> 沉淀 0-3 岁全周期带娃高频场景，
-> 让任何 AI 助手 / 家长都能 30 秒内查到"遇到 X 怎么办"。
+> A new-dad perspective **newborn expert knowledge base** —
+> Captures the highest-frequency parenting scenarios from pregnancy through age 3,
+> so any AI assistant or parent can find "what to do when X happens" in 30 seconds.
 
-🌐 [English](README.en.md) | 中文
-
----
-
-## 这是什么
-
-不是流水账、不是育儿博客、不是医生开的方子。
-是一个**持续积累的决策树合集**——把"宝宝哭闹 / 黄疸 / 胀气 / 换奶 / 红疹"这些新手家长**最容易慌**的场景，拆成**5 步判断法 + 7 大红灯 + 5 大误区 + quick check**四件套。
-
-**核心价值**：**专家共识** + **新手家长最容易踩的坑** + **网上搜不到的口诀**，三合一。
+🌐 English | [中文](README.zh.md)
 
 ---
 
-## 🎯 目标读者
+## What this is
 
-**写给**：新手宝爸在**产后第一个月手忙脚乱期**必备的知识。
+Not a diary. Not a parenting blog. Not a doctor's prescription.
+It is a **growing collection of decision trees** — for the scenarios new parents panic about most (baby crying, jaundice, gas, formula switch, rashes), broken down into a **4-piece framework: 5-step judgment + 7 red flags + 5 common myths + quick check**.
 
-- ✅ 刚升级当爸 0-30 天
-- ✅ 面对宝宝黄疸 / 哭闹 / 不吃奶 / 胀气 / 疹子不知道怎么办
-- ✅ 半夜搜资料不知道哪个权威
-- ✅ 不想走弯路 / 想少踩坑 / 想成为"会带娃"的爸爸
-
-**不限于**：
-
-- 妈妈 / 月嫂 / 姥姥奶奶 / 育儿嫂 同样适用
-- 备孕期 / 孕中期的宝爸提前看也 OK
-- 0-12 月各月龄场景均有覆盖（当前优先 0-1 月）
-
-**不适用**：
-
-- ❌ 1 岁以上的"幼儿园阶段"问题（不在本项目范围）
-- ❌ 早产 / 过敏 / 特殊医学情况（需遵医嘱，不在通用知识范围）
+**Core value**: **Expert consensus** + **pitfalls new parents fall into** + **routines you won't find by searching online** — combined.
 
 ---
 
-## 适用场景
+## 🎯 Target audience
 
-✅ **适合**：
+**Written for**: new dads in the **chaotic first month postpartum** — the must-have knowledge base.
 
-- 新手家长（0-12 月宝宝）遇到常见问题快速判断
-- AI Agent 作为新生儿领域 Skill 加载
-- 家庭内部、产前培训、儿科诊所知识普及
-- 准备 / 升级当爸的程序员做"育儿技术栈"
+- ✅ Just leveled up to "dad" 0-30 days ago
+- ✅ Face baby jaundice / crying / refusing to feed / gas / rashes and don't know what to do
+- ✅ Searching at 3 AM and can't tell which source is authoritative
+- ✅ Don't want to take detours / want to avoid common pitfalls / want to become a dad who "knows how to parent"
 
-❌ **不适合**：
+**Not limited to**:
 
-- 早产 / 过敏 / 特殊医学情况（需遵医嘱，不在通用知识范围）
-- 急性危重症状（请直接拨打 120 / 立即就医）
-- 替代专业儿科医生面诊
+- Moms / nannies / grandmas / postpartum care nurses all benefit equally
+- Dads-to-be in pre-pregnancy / pregnancy stage can also read ahead
+- 0-12 month scenarios are all covered (currently prioritizing 0-1 month)
 
----
+**Not for**:
 
-## ⚠️ 免责声明（重要）
-
-> **本项目所有内容仅作参考，不构成医疗建议。**
-
-1. **不替代医生** —— 任何健康问题、用药决策、治疗方案，**以专业儿科医生面诊为准**。
-2. **数据可能滞后** —— 医学指南持续更新，本项目**不保证**完全反映最新研究。
-3. **个体差异** —— 每个宝宝情况不同，本文方法**不保证对所有宝宝适用**。
-4. **红灯信号** —— 文中标"立即就医"的红灯，**优先级高于一切经验**。
-5. **使用风险** —— 使用本项目产生的任何后果，由使用者自行承担。
-6. **开源贡献** —— 任何引用本文内容的二次创作，**需保留本免责声明**。
-
-**建议**：本项目作为"知识地图"和"决策辅助"使用，**不作为诊断依据**。
+- ❌ "Kindergarten stage" issues above age 1 (out of project scope)
+- ❌ Premature / allergic / special medical conditions (follow doctor's advice, outside general knowledge)
 
 ---
 
-## 🔒 隐私铁律（最高优先级）⭐⭐⭐
+## Use cases
 
-> 本项目目标产物是**开源 Skill**——任何个人经历、有暴露风险的内容**一律不录**。
+✅ **Suitable for**:
 
-### 绝对不录
+- New parents (0-12 month babies) making quick judgments on common problems
+- AI Agents loading as a newborn-domain Skill
+- Family internal use, prenatal training, pediatric clinic knowledge sharing
+- Programmers preparing to / upgrading to "dad" building a "parenting tech stack"
 
-- ❌ 任何个人经历的"我娃""我家宝宝""我朋友家孩子""我当时遇到"
-- ❌ 任何具体医院名 / 医生名 / 城市 / 地区
-- ❌ 任何具体日期（用"生后 X 天"代替"2026-09-01"）
-- ❌ 任何具体数值（"黄疸值 12"→ "中度升高"）
-- ❌ 任何姓名（妈妈 / 宝宝 / 大宝是代号，非真名）
-- ❌ 任何身份信息（医保号 / 身份证 / 住址 / 电话）
+❌ **Not suitable for**:
 
-### 沉淀流程
-
-1. 用户输入**可能涉及具体场景**
-2. Vega **消化 + 包装成通用经验**
-3. ✅ 反思类内容**只写 skill 怎么设计**（不带用户上下文）
-4. ✅ 个人经历**不录项目**——留在本地 `~/.hermes/notes/`，不进 git、不进 Skill
-
-### 数据来源
-
-- 公开医学指南（WHO / 中国卫健委 / UpToDate / AAP）
-- 通用医学共识
-- 行业争议点汇总
-- ✅ **不混入个人 / 家庭具体数据**
+- Premature / allergic / special medical conditions (follow doctor's advice, outside general knowledge)
+- Acute critical symptoms (call 120 / seek emergency care immediately)
+- Replacing professional pediatric consultations
 
 ---
 
-## 📁 文件结构
+## ⚠️ Disclaimer (Important)
+
+> **All content in this project is for reference only and does not constitute medical advice.**
+
+1. **Does not replace a doctor** — for any health issue, medication decision, or treatment plan, **consult a professional pediatrician in person**.
+2. **Data may be outdated** — medical guidelines are continuously updated; this project **does not guarantee** complete reflection of the latest research.
+3. **Individual differences** — every baby is different; the methods here **do not guarantee** universal applicability.
+4. **Red flag signals** — items marked "seek medical care immediately" in the text take **priority over all experience**.
+5. **Usage risk** — any consequences from using this project are borne by the user.
+6. **Open source contribution** — any secondary work that cites this content **must retain this disclaimer**.
+
+**Recommendation**: Use this project as a "knowledge map" and "decision aid", **not as a diagnostic basis**.
+
+---
+
+## 🔒 Privacy iron rule (Highest priority) ⭐⭐⭐
+
+> The project's target output is an **open-source Skill** — any personal experience or content with exposure risk **will not be recorded**.
+
+### Absolutely not recorded
+
+- ❌ Any personal experience phrasing like "my baby", "my friend's kid", "what I encountered"
+- ❌ Any specific hospital / doctor / city / region name
+- ❌ Any specific date (use "day X after birth" instead of "2026-09-01")
+- ❌ Any specific numeric value (e.g. "jaundice value 12" → "moderately elevated")
+- ❌ Any real name ("Mom / Baby / First baby" are placeholders, not real names)
+- ❌ Any identity information (medical insurance number / ID card / address / phone)
+
+### Sedimentation workflow
+
+1. User input **may involve specific scenarios**
+2. Reader / maintainer **digests + packages into general experience**
+3. ✅ Reflection-type content **only writes how to design the Skill** (no user context)
+4. ✅ Personal experience **not recorded in project** — stays in local `~/.hermes/notes/`, no git, no Skill
+
+### Data sources
+
+- Public medical guidelines (WHO / China NHC / UpToDate / AAP)
+- General medical consensus
+- Industry controversy summaries
+- ✅ **Never mixed with personal / family-specific data**
+
+---
+
+## 📁 File structure
 
 ```
 newdad-log/
-├── README.md                          # 本文件
-├── README.en.md                       # English version
-├── knowledge/                         # 通用专家知识（可开源）
-│   ├── _index.md                      # 知识索引
-│   ├── _index.en.md                   # English index
-│   └── decision-trees/                # "遇到 X 怎么办"决策树
-│       ├── baby-jaundice.md           # 黄疸判断
-│       ├── baby-jaundice.en.md        # Jaundice decision tree
-│       ├── baby-temperature.md        # 体温 & 室温 & 热疹/过敏速判
-│       ├── baby-temperature.en.md     # Temperature, room temp, heat rash vs allergy
-│       ├── baby-gas.md                # 肠胀气 vs 胃胀气
-│       ├── baby-gas.en.md             # Intestinal gas vs stomach gas
-│       ├── baby-milk-switch.md        # 换奶粉（足月健康宝宝）
-│       ├── baby-milk-switch.en.md     # Milk powder switch (healthy full-term)
-│       ├── baby-feeding-rhythm.md     # 新生儿喂养节奏（0-1 月）
-│       ├── baby-feeding-rhythm.en.md  # Newborn feeding rhythm (0-1 month)
-│       ├── baby-stool-observation.md  # 新生儿便便观察（0-1 月）
-│       └── baby-stool-observation.en.md # Newborn stool observation (0-1 month)
-├── references/                        # 引用资料 & 工具清单
-│   ├── info-sources.md                # 育儿信息搜集工具（蚂蚁阿福 / 小红书 / 美柚等）
-│   └── info-sources.en.md             # Information sources (CN-region tools)
+├── README.md                          # This file (English, default)
+├── README.zh.md                       # 中文版
+├── knowledge/                         # General expert knowledge (open-source-ready)
+│   ├── _index.md                      # Knowledge index (English, default)
+│   ├── _index.zh.md                   # 知识索引（中文版）
+│   └── decision-trees/                # "What to do when X happens" decision trees
+│       ├── baby-jaundice.md           # Jaundice judgment
+│       ├── baby-jaundice.zh.md        # 黄疸判断（中文版）
+│       ├── baby-temperature.md        # Temperature, room temp, heat rash vs allergy
+│       ├── baby-temperature.zh.md     # 体温监测（中文版）
+│       ├── baby-gas.md                # Intestinal gas vs stomach gas
+│       ├── baby-gas.zh.md             # 肠胀气/肠绞痛（中文版）
+│       ├── baby-milk-switch.md        # Milk powder switch (healthy full-term)
+│       ├── baby-milk-switch.zh.md     # 奶粉切换（中文版）
+│       ├── baby-feeding-rhythm.md     # Newborn feeding rhythm (0-1 month)
+│       ├── baby-feeding-rhythm.zh.md  # 喂养节奏（中文版）
+│       ├── baby-stool-observation.md  # Newborn stool observation (0-1 month)
+│       └── baby-stool-observation.zh.md # 大便观察（中文版）
+├── references/                        # Reference materials & tool list
+│   ├── info-sources.md                # Parenting info-gathering tools (CN region)
+│   └── info-sources.zh.md             # 资料来源工具清单（中文版）
 ```
 
 ---
 
-## 🛠️ 工作模式
+## 🛠️ Workflow
 
-### 记录（用户触发）
+### Recording (user-triggered)
 
-- 用户说"记一下：xxx" → **留在本地 `~/.hermes/notes/`**，不进项目
-- 用户说"沉淀成 skill" → 写到 `knowledge/decision-trees/xxx.md`（已经脱敏）
+- User says "note: xxx" → **stays in local `~/.hermes/notes/`**, not in project
+- User says "sediment as skill" → write to `knowledge/decision-trees/xxx.md` (already desensitized)
 
-### 查询（用户触发）
+### Querying (user-triggered)
 
-- 用户问"遇到 Z 怎么办" → 看 `decision-trees/`
-- 用户说"之前说过的" → 翻历史会话（项目内暂无独立 `queries/`，依赖 chat 历史）
+- User asks "what to do when Z" → check `decision-trees/`
+- User says "what was said before" → search chat history (project has no independent `queries/` yet, relies on chat history)
 
-### Skill 开源（最终）
+### Open-sourcing the Skill (final)
 
-项目定级时（孩子 3 岁 / 主动停止）→ 写 `SKILL.md`，开源版**只带通用知识 + 决策树**，不带任何 personal 私人数据。
+When the project is finalized (child turns 3 / voluntarily stopped) → write `SKILL.md`. The open-source version **only includes general knowledge + decision trees**, no personal data whatsoever.
 
 ---
 
-## 📊 当前沉淀
+## 📊 Current accumulation
 
-- **6 篇决策树**：黄疸 / 体温 / 胀气 / 换奶 / 喂养节奏 / 便便观察
-- **0 条个人案例**（已严格脱敏）
-- **0 条私人数据**（隐私铁律保障）
-- **1 份信息搜集工具清单**（蚂蚁阿福 / 小红书 / 美柚等）—— 见 [references/info-sources.md](references/info-sources.md) / [English](references/info-sources.en.md)
+- **6 decision trees**: jaundice / temperature / gas / milk switch / feeding rhythm / stool observation
+- **0 personal cases** (strictly desensitized)
+- **0 private data** (privacy iron rule)
+- **1 information-source tool list** (Ant Afu / Xiaohongshu / Meiyou etc.) — see [references/info-sources.zh.md](references/info-sources.zh.md)
 
-> 数据更新：每次新沉淀后同步本文档。
+> Data update: synchronized with this document after each new sediment.
 
 ---
 
 ## 📜 License
 
-MIT（待定）—— 开源后欢迎引用、修改、再分发。
-**条件**：保留免责声明 + 隐私铁律 + 数据来源说明。
+MIT — open-source, free to cite, modify, redistribute.
+**Conditions**: retain disclaimer + privacy iron rule + data source attribution.
 
 ---
 
-## 🤝 贡献
+## 🤝 Contributing
 
-当前**单人维护**（Vega + 用户双视角）。
-欢迎：
+Currently **single maintainer** (maintainer + contributor dual perspective).
+Welcome:
 
-- 提 Issue 指出医学错误（Vega 不替代医生，请提供权威来源）
-- 提 PR 补充决策树（请遵守隐私铁律 + 免责声明模板）
-- 引用本文档（请保留来源标注）
+- Open Issue pointing out medical errors (AI assistants do not replace doctors, please provide authoritative sources)
+- Open PR adding decision trees (please follow privacy iron rule + disclaimer template)
+- Citing this document (please retain source attribution)
 
 ---
 
-**最后更新**：持续更新中  
-**联系方式**：本项目通过 Vega Agent 维护
+**Last updated**: continuously updating  
+**Contact**: open an Issue on this repository
