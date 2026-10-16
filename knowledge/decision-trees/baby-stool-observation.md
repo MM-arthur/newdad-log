@@ -32,7 +32,7 @@
 - Dry formula stool = dehydration (not necessarily)
 - Self-medicating baby for diarrhea
 
-## quick check
+## 快速自查
 
 - [ ] Frequency ≤ feeding count
 - [ ] Turns yellow after day 7

@@ -11,6 +11,11 @@
   - [baby-milk-switch.md](decision-trees/baby-milk-switch.md) / [English](decision-trees/baby-milk-switch.zh.md) — Milk powder switch (healthy full-term baby)
   - [baby-feeding-rhythm.md](decision-trees/baby-feeding-rhythm.md) / [English](decision-trees/baby-feeding-rhythm.zh.md) — Newborn feeding rhythm (0-1 month)
   - [baby-stool-observation.md](decision-trees/baby-stool-observation.md) / [English](decision-trees/baby-stool-observation.zh.md) — Newborn stool observation (0-1 month)
+  - [baby-spit-up-vs-choking.md](decision-trees/baby-spit-up-vs-choking.md) / [English](decision-trees/baby-spit-up-vs-choking.zh.md) — Spit-up vs choking (0-3 months)
+  - [baby-sleep.md](decision-trees/baby-sleep.md) / [English](decision-trees/baby-sleep.zh.md) — Newborn sleep / soothing / night waking (0-3 months)
+  - [baby-crying-triage.md](decision-trees/baby-crying-triage.md) / [English](decision-trees/baby-crying-triage.zh.md) — Newborn crying triage (0-3 months)
+  - [baby-nail-trimming.md](decision-trees/baby-nail-trimming.md) / [English](decision-trees/baby-nail-trimming.zh.md) — Newborn nail trimming (0-3 months)
+  - [baby-umbilical-cord.md](decision-trees/baby-umbilical-cord.md) / [English](decision-trees/baby-umbilical-cord.zh.md) — Newborn umbilical cord care (0-4 weeks)
 
 ## Data sources
 

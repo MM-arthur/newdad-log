@@ -5,7 +5,7 @@
 
 ---
 
-## When to find a doctor (red flag signals) ⭐⭐⭐
+## When to find a doctor (red flag signals)
 
 > What new dads must remember — don't wait until something goes wrong to seek care.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## ⭐ Not found online / controversial content
+## Not found online / controversial content
 
 > This is what the Skill should record — not "what is jaundice", but "things online / doctors disagree on".
 
@@ -61,7 +61,7 @@
 
 ---
 
-## Quick check template (used by any reader / agent before responding)
+## 快速自查模板（任何读者/Agent 回应前使用）
 
 1. How many days after birth? Did jaundice appear suddenly or gradually?
 2. How long has jaundice been present? Where is the yellow? (face / chest / extremities)
@@ -86,6 +86,6 @@
 ✓ "Content not found online" — must keep
 ```
 
-## Sedimentation method (self-rule)
+## 沉淀法（自我规则）
 
 Maintainer's default standard: framework + controversial points + myths first; detailed numbers / doses / thresholds not recorded by default, unless explicitly requested to record specific values.

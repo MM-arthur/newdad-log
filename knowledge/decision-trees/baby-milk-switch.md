@@ -40,7 +40,7 @@ Full 7 days observed with no abnormality = switch complete.
 - Body: avoid during illness / diarrhea recovery
 - Environment: avoid adding new solid foods at the same time
 
-## quick check
+## 快速自查
 
 - [ ] Only add 1/4 ratio per day
 - [ ] Observe 7 days before concluding

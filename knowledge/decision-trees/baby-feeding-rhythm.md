@@ -29,7 +29,7 @@
 - Add water / juice to "clear heat"
 - Stop night feeds all at once
 
-## quick check
+## 快速自查
 
 - [ ] 8-12 feeds in 24h
 - [ ] 6+ wet diapers

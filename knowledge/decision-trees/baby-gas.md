@@ -17,7 +17,7 @@
 
 ---
 
-## ⭐ Common pitfalls
+## Common pitfalls
 
 ### Intestinal gas
 
@@ -63,7 +63,7 @@
 
 ---
 
-## Quick check template (used by any reader / agent before responding)
+## 快速自查模板（任何读者/Agent 回应前使用）
 
 1. How many days after birth? (newborn vs older baby, different probability)
 2. **Crying before / during / after feeding?** (time-segment distinction)
@@ -78,7 +78,7 @@
 
 ---
 
-## Cross-reference with jaundice / temperature
+## 与黄疸/体温的交叉参考
 
 > These are usually independent, but **premature / low birth weight** need more vigilance,
 > any gas + feeding refusal + drowsy = see doctor immediately

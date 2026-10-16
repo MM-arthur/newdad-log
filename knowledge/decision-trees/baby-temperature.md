@@ -14,7 +14,7 @@
 
 ---
 
-## ⭐ Common pitfalls
+## Common pitfalls
 
 > This matters more than "how to measure" — new parents tend to go to extremes.
 
@@ -39,7 +39,7 @@
 
 ---
 
-## ⭐ Little red rash = heat rash vs allergy quick judge
+## Little red rash = heat rash vs allergy quick judge
 
 > A small red rash on the body, **in most cases is from heat**, not allergy.
 > Don't jump to suspecting formula / breast milk / food allergy; check "overheating" first.
@@ -72,7 +72,7 @@
 - ❌ Think "rash = calcium deficiency" / "vitamin deficiency"
 - ❌ Dress baby more to "block the wind" (**rash worsens with more covering**)
 
-### quick check
+### 快速自查
 
 - [ ] Rash on folds (forehead/neck/chest/back) = likely heat rash
 - [ ] Subsides noticeably 30 min after undressing = most likely heat rash
@@ -80,7 +80,7 @@
 - [ ] Do not stop milk / switch formula on your own
 - [ ] Allergy with feeding refusal / vomiting / rapid breathing = see doctor immediately
 
-### Allergy cross-references
+### 过敏交叉参考
 
 - Heat rash may coexist with eczema — eczema is chronic, recurring; heat rash is acute
 - Breastfeeding mom ate new food (seafood / dairy) → baby may be allergic → keep a diet diary
@@ -97,7 +97,7 @@
 
 ---
 
-## Quick check template (used by any reader / agent before responding)
+## 快速自查模板（任何读者/Agent 回应前使用）
 
 1. How many days after birth?
 2. What's the current temperature? What was used to measure?
@@ -111,7 +111,7 @@
 
 ---
 
-## Cross-reference with jaundice
+## 与黄疸的交叉参考
 
 > During jaundice treatment (phototherapy), **room temp management matters more**:
 > - Phototherapy box itself generates heat → room temp cannot be too high
