@@ -11,7 +11,7 @@
 ## What this is
 
 Not a diary. Not a parenting blog. Not a doctor's prescription.
-It is a **growing collection of decision trees** — for the scenarios new parents panic about most (baby crying, jaundice, gas, formula switch, rashes), broken down into a **4-piece framework: 5-step judgment + 7 red flags + 5 common myths + quick check**.
+It is a **growing collection of decision trees** — for the scenarios new parents panic about most (baby crying, jaundice, gas, spit-up vs choking, sleep, formula switch, rashes, umbilical cord, nail trimming, stool changes), broken down into a **4-piece framework: 5-step judgment + 7 red flags + 5 common myths + quick check**.
 
 **Core value**: **Expert consensus** + **pitfalls new parents fall into** + **routines you won't find by searching online** — combined.
 
@@ -109,7 +109,7 @@ newdad-log/
 ├── knowledge/                         # General expert knowledge (open-source-ready)
 │   ├── _index.md                      # Knowledge index (English, default)
 │   ├── _index.zh.md                   # 知识索引（中文版）
-│   └── decision-trees/                # "What to do when X happens" decision trees
+│   └── decision-trees/                # "What to do when X happens" decision trees (11 trees, bilingual)
 │       ├── baby-jaundice.md           # Jaundice judgment
 │       ├── baby-jaundice.zh.md        # 黄疸判断（中文版）
 │       ├── baby-temperature.md        # Temperature, room temp, heat rash vs allergy
@@ -121,7 +121,17 @@ newdad-log/
 │       ├── baby-feeding-rhythm.md     # Newborn feeding rhythm (0-1 month)
 │       ├── baby-feeding-rhythm.zh.md  # 喂养节奏（中文版）
 │       ├── baby-stool-observation.md  # Newborn stool observation (0-1 month)
-│       └── baby-stool-observation.zh.md # 大便观察（中文版）
+│       ├── baby-stool-observation.zh.md # 大便观察（中文版）
+│       ├── baby-spit-up-vs-choking.md  # Spit-up vs choking (0-3 months)
+│       ├── baby-spit-up-vs-choking.zh.md # 溢奶 vs 呛奶速判（中文版）
+│       ├── baby-sleep.md              # Newborn sleep / soothing / night waking (0-3 months)
+│       ├── baby-sleep.zh.md           # 睡眠/哄睡/夜醒（中文版）
+│       ├── baby-crying-triage.md      # Newborn crying triage (0-3 months)
+│       ├── baby-crying-triage.zh.md   # 哭闹排查（中文版）
+│       ├── baby-nail-trimming.md      # Newborn nail trimming (0-3 months)
+│       ├── baby-nail-trimming.zh.md   # 剪指甲（中文版）
+│       ├── baby-umbilical-cord.md     # Newborn umbilical cord care (0-4 weeks)
+│       └── baby-umbilical-cord.zh.md  # 脐带护理（中文版）
 ├── references/                        # Reference materials & tool list
 │   ├── info-sources.md                # Parenting info-gathering tools (CN region)
 │   └── info-sources.zh.md             # 资料来源工具清单（中文版）
@@ -149,7 +159,7 @@ When the project is finalized (child turns 3 / voluntarily stopped) → write `S
 
 ## 📊 Current accumulation
 
-- **6 decision trees**: jaundice / temperature / gas / milk switch / feeding rhythm / stool observation
+- **11 decision trees** (all bilingual): jaundice / temperature / gas / milk switch / feeding rhythm / stool observation / spit-up vs choking / sleep / crying triage / nail trimming / umbilical cord care
 - **0 personal cases** (strictly desensitized)
 - **0 private data** (privacy iron rule)
 - **1 information-source tool list** (Ant Afu / Xiaohongshu / Meiyou etc.) — see [references/info-sources.zh.md](references/info-sources.zh.md)

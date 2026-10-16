@@ -20,6 +20,8 @@ AI assistant or parent can find "what to do when X happens" in 30 seconds.
 Load when the user is asking about:
 
 - **Newborn (0-1 month) feeding, stool, temperature, jaundice, gas, milk switching**
+- **Newborn (0-3 month) spit-up vs choking, sleep, crying, nail trimming**
+- **Newborn (0-4 week) umbilical cord care**
 - **First-time-dad specific concerns**: 5-step judgment + 7 red flags + 5 myths framework
 - **Practical information sources** (medical, parenting community, pregnancy tools)
 - **Anything matching** "what to do when baby X" in the 0-12 month window
@@ -41,6 +43,11 @@ DO NOT load for:
 | Milk powder switch | `knowledge/decision-trees/baby-milk-switch.md` |
 | Feeding rhythm 0-1 month | `knowledge/decision-trees/baby-feeding-rhythm.md` |
 | Stool observation 0-1 month | `knowledge/decision-trees/baby-stool-observation.md` |
+| Spit-up vs choking (0-3 mo) | `knowledge/decision-trees/baby-spit-up-vs-choking.md` |
+| Sleep / soothing / night waking (0-3 mo) | `knowledge/decision-trees/baby-sleep.md` |
+| Crying triage (0-3 mo) | `knowledge/decision-trees/baby-crying-triage.md` |
+| Nail trimming (0-3 mo) | `knowledge/decision-trees/baby-nail-trimming.md` |
+| Umbilical cord care (0-4 wk) | `knowledge/decision-trees/baby-umbilical-cord.md` |
 | Information sources (CN region) | `references/info-sources.md` |
 | Chinese version | append `.zh` before `.md` |
 

@@ -11,7 +11,7 @@
 ## 这是什么
 
 不是流水账、不是育儿博客、不是医生开的方子。
-是一个**持续积累的决策树合集**——把"宝宝哭闹 / 黄疸 / 胀气 / 换奶 / 红疹"这些新手家长**最容易慌**的场景，拆成**5 步判断法 + 7 大红灯 + 5 大误区 + quick check**四件套。
+是一个**持续积累的决策树合集**——把"宝宝哭闹 / 黄疸 / 胀气 / 溢奶呛奶 / 睡眠 / 换奶 / 红疹 / 脐带 / 剪指甲 / 便便"这些新手家长**最容易慌**的场景，拆成**5 步判断法 + 7 大红灯 + 5 大误区 + quick check**四件套。
 
 **核心价值**：**专家共识** + **新手家长最容易踩的坑** + **网上搜不到的口诀**，三合一。
 
@@ -108,13 +108,18 @@ newdad-log/
 ├── README.zh.md                       # 本文件（中文）
 ├── knowledge/                         # 通用专家知识（可开源）
 │   ├── _index.md                      # 知识索引
-│   └── decision-trees/                # "遇到 X 怎么办"决策树
+│   └── decision-trees/                # "遇到 X 怎么办"决策树（11 篇，双语）
 │       ├── baby-jaundice.md           # 黄疸判断
 │       ├── baby-temperature.md        # 体温 & 室温 & 热疹/过敏速判
 │       ├── baby-gas.md                # 肠胀气 vs 胃胀气
 │       ├── baby-milk-switch.md        # 换奶粉（足月健康宝宝）
 │       ├── baby-feeding-rhythm.md     # 新生儿喂养节奏（0-1 月）
-│       └── baby-stool-observation.md  # 新生儿便便观察（0-1 月）
+│       ├── baby-stool-observation.md  # 新生儿便便观察（0-1 月）
+│       ├── baby-spit-up-vs-choking.md # 溢奶 vs 呛奶速判（0-3 月）
+│       ├── baby-sleep.md              # 新生儿睡眠/哄睡/夜醒（0-3 月）
+│       ├── baby-crying-triage.md      # 新生儿哭闹排查（0-3 月）
+│       ├── baby-nail-trimming.md      # 新生儿剪指甲（0-3 月）
+│       └── baby-umbilical-cord.md     # 新生儿脐带护理（0-4 周）
 └── references/                        # 引用资料 & 工具清单
     └── info-sources.md                # 育儿信息搜集工具（蚂蚁阿福 / 小红书 / 美柚等）
 ```
@@ -141,7 +146,7 @@ newdad-log/
 
 ## 📊 当前沉淀
 
-- **6 篇决策树**：黄疸 / 体温 / 胀气 / 换奶 / 喂养节奏 / 便便观察
+- **11 篇决策树**（全部双语）：黄疸 / 体温 / 胀气 / 换奶 / 喂养节奏 / 便便 / 溢奶呛奶 / 睡眠 / 哭闹排查 / 剪指甲 / 脐带护理
 - **0 条个人案例**（已严格脱敏）
 - **0 条私人数据**（隐私铁律保障）
 - **1 份信息搜集工具清单**（蚂蚁阿福 / 小红书 / 美柚等）—— 见 [references/info-sources.md](references/info-sources.md)
