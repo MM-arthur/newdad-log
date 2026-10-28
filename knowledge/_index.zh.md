@@ -16,12 +16,14 @@
   - [baby-crying-triage.md](decision-trees/baby-crying-triage.md) — 新生儿哭闹排查（0-3 月）
   - [baby-nail-trimming.md](decision-trees/baby-nail-trimming.md) — 新生儿剪指甲（0-3 月）
   - [baby-umbilical-cord.md](decision-trees/baby-umbilical-cord.md) — 新生儿脐带护理（0-4 周）
+  - [baby-early-learning-play.md](decision-trees/baby-early-learning-play.md) — 早期学习与陪玩（0-3 月）
 
 ## Data sources
 
 - Public medical guidelines (WHO / China NHC / UpToDate / AAP)
 - General medical consensus
 - Industry controversy summary
+- 教育模式公开报道（Astra Nova / Ad Astra）——共识 + 争议点汇总
 
 ## Not included
 

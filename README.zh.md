@@ -15,6 +15,8 @@
 
 **核心价值**：**专家共识** + **新手家长最容易踩的坑** + **网上搜不到的口诀**，三合一。
 
+**额外覆盖**：0-12 月窗口内如何支持早期学习——兴趣优先陪玩、"要问题不要工具"、读懂宝宝的信号而不是对着里程碑表打勾。其背后的教育模式记录在 `references/education-philosophy.md`。
+
 ---
 
 ## 🎯 目标读者
@@ -47,6 +49,7 @@
 - AI Agent 作为新生儿领域 Skill 加载
 - 家庭内部、产前培训、儿科诊所知识普及
 - 准备 / 升级当爸的程序员做"育儿技术栈"
+- 想用兴趣优先、项目制的方式陪 0-12 月宝宝玩和学的家长
 
 ❌ **不适合**：
 
@@ -108,7 +111,8 @@ newdad-log/
 ├── README.zh.md                       # 本文件（中文）
 ├── knowledge/                         # 通用专家知识（可开源）
 │   ├── _index.md                      # 知识索引
-│   └── decision-trees/                # "遇到 X 怎么办"决策树（11 篇，双语）
+│   ├── _index.zh.md                   # 知识索引（中文版）
+│   └── decision-trees/                # "遇到 X 怎么办"决策树（12 篇，双语）
 │       ├── baby-jaundice.md           # 黄疸判断
 │       ├── baby-temperature.md        # 体温 & 室温 & 热疹/过敏速判
 │       ├── baby-gas.md                # 肠胀气 vs 胃胀气
@@ -119,9 +123,14 @@ newdad-log/
 │       ├── baby-sleep.md              # 新生儿睡眠/哄睡/夜醒（0-3 月）
 │       ├── baby-crying-triage.md      # 新生儿哭闹排查（0-3 月）
 │       ├── baby-nail-trimming.md      # 新生儿剪指甲（0-3 月）
-│       └── baby-umbilical-cord.md     # 新生儿脐带护理（0-4 周）
+│       ├── baby-umbilical-cord.md     # 新生儿脐带护理（0-4 周）
+│       ├── baby-early-learning-play.md # 早期学习与陪玩（0-3 月）
+│       └── baby-early-learning-play.zh.md # 早期学习与陪玩（中文版）
 └── references/                        # 引用资料 & 工具清单
-    └── info-sources.md                # 育儿信息搜集工具（蚂蚁阿福 / 小红书 / 美柚等）
+    ├── info-sources.md                # 育儿信息搜集工具（蚂蚁阿福 / 小红书 / 美柚等）
+    ├── info-sources.zh.md             # 资料来源工具清单（中文版）
+    ├── education-philosophy.md        # 教育理念出处记录（Astra Nova / Ad Astra）
+    └── education-philosophy.zh.md     # 教育理念出处记录（中文版）
 ```
 
 ---
@@ -146,10 +155,11 @@ newdad-log/
 
 ## 📊 当前沉淀
 
-- **11 篇决策树**（全部双语）：黄疸 / 体温 / 胀气 / 换奶 / 喂养节奏 / 便便 / 溢奶呛奶 / 睡眠 / 哭闹排查 / 剪指甲 / 脐带护理
+- **12 篇决策树**（全部双语）：黄疸 / 体温 / 胀气 / 换奶 / 喂养节奏 / 便便 / 溢奶呛奶 / 睡眠 / 哭闹排查 / 剪指甲 / 脐带护理 / 早期学习与陪玩
 - **0 条个人案例**（已严格脱敏）
 - **0 条私人数据**（隐私铁律保障）
 - **1 份信息搜集工具清单**（蚂蚁阿福 / 小红书 / 美柚等）—— 见 [references/info-sources.md](references/info-sources.md)
+- **1 份教育理念出处记录**（Astra Nova / Ad Astra）—— 见 [references/education-philosophy.zh.md](references/education-philosophy.zh.md)
 
 > 数据更新：每次新沉淀后同步本文档。
 

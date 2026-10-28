@@ -1,7 +1,7 @@
 ---
 name: newdad-log
-description: Newborn 0-12 month expert knowledge base for new dads. Decision trees for jaundice, temperature, gas, milk switch, feeding rhythm, stool observation, plus curated info-source list (Ant Afu, Xiaohongshu, Meiyou).
-version: 1.0.0
+description: Newborn 0-12 month expert knowledge base for new dads. Decision trees for jaundice, temperature, gas, milk switch, feeding rhythm, stool observation, early learning & play, plus curated info-source list (Ant Afu, Xiaohongshu, Meiyou) and an education-philosophy source record.
+version: 1.1.0
 author: NewDad Log Contributors
 license: MIT
 platforms: linux, macos, windows
@@ -22,6 +22,7 @@ Load when the user is asking about:
 - **Newborn (0-1 month) feeding, stool, temperature, jaundice, gas, milk switching**
 - **Newborn (0-3 month) spit-up vs choking, sleep, crying, nail trimming**
 - **Newborn (0-4 week) umbilical cord care**
+- **Early learning & play (0-3 month)** — interest-first play, problems-not-tools, red flags before play
 - **First-time-dad specific concerns**: 5-step judgment + 7 red flags + 5 myths framework
 - **Practical information sources** (medical, parenting community, pregnancy tools)
 - **Anything matching** "what to do when baby X" in the 0-12 month window
@@ -32,6 +33,7 @@ DO NOT load for:
 - ❌ Toddler 1-3 year behavior / language (out of scope)
 - ❌ Specific medical treatment plans / drug doses (use medical databases)
 - ❌ Anything requiring the user's specific family / baby context (this Skill is generic)
+- ❌ K-12 school selection, curricula, or admissions decisions (the education reference covers method, not school choice)
 
 ## What to load
 
@@ -48,7 +50,9 @@ DO NOT load for:
 | Crying triage (0-3 mo) | `knowledge/decision-trees/baby-crying-triage.md` |
 | Nail trimming (0-3 mo) | `knowledge/decision-trees/baby-nail-trimming.md` |
 | Umbilical cord care (0-4 wk) | `knowledge/decision-trees/baby-umbilical-cord.md` |
+| Early learning & play (0-3 mo) | `knowledge/decision-trees/baby-early-learning-play.md` |
 | Information sources (CN region) | `references/info-sources.md` |
+| Education philosophy (source record) | `references/education-philosophy.md` |
 | Chinese version | append `.zh` before `.md` |
 
 ## Privacy iron rule (DO NOT violate)
@@ -71,6 +75,7 @@ When user provides personal context, **package as general experience** into
 3. **Stay framework-level** — don't recite specific drug doses or threshold curves (use medical DBs).
 4. **Recommend doctor visit for** any red flag signal, not at user's risk assessment.
 5. **Use the 4-piece format** for each scenario: 5-step judgment + 7 red flags + 5 common myths + quick check.
+6. **For early learning & play** — screen red flags first, then name the real problem before choosing an activity, and never let "follow the baby's interest" override a red flag.
 
 ## Language switching
 
@@ -84,5 +89,5 @@ information sources.
 ---
 
 **Maintainer**: maintained by a single contributor.  
-**Contributing**: see [CONTRIBUTING.md](CONTRIBUTING.md).  
-**Security / medical-content issues**: see [SECURITY.md](SECURITY.md).
+**Contributing**: open a PR following the 4-piece format, using the existing decision trees as templates.  
+**Medical-content / privacy issues**: open an issue with file:line, the incorrect claim, and an authoritative source (WHO / AAP / UpToDate / China NHC + year). Privacy violations are handled as priority fixes.

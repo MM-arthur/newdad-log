@@ -15,6 +15,8 @@ It is a **growing collection of decision trees** — for the scenarios new paren
 
 **Core value**: **Expert consensus** + **pitfalls new parents fall into** + **routines you won't find by searching online** — combined.
 
+**Also covered**: how to support early learning in the 0-12 month window — interest-first play, problems-not-tools, and reading a baby's signals instead of a milestone scoreboard. The educational model behind it is documented in `references/education-philosophy.md`.
+
 ---
 
 ## 🎯 Target audience
@@ -47,6 +49,7 @@ It is a **growing collection of decision trees** — for the scenarios new paren
 - AI Agents loading as a newborn-domain Skill
 - Family internal use, prenatal training, pediatric clinic knowledge sharing
 - Programmers preparing to / upgrading to "dad" building a "parenting tech stack"
+- Parents looking for an interest-first, project-based way to play and learn with a 0-12 month old
 
 ❌ **Not suitable for**:
 
@@ -109,7 +112,7 @@ newdad-log/
 ├── knowledge/                         # General expert knowledge (open-source-ready)
 │   ├── _index.md                      # Knowledge index (English, default)
 │   ├── _index.zh.md                   # 知识索引（中文版）
-│   └── decision-trees/                # "What to do when X happens" decision trees (11 trees, bilingual)
+│   └── decision-trees/                # "What to do when X happens" decision trees (12 trees, bilingual)
 │       ├── baby-jaundice.md           # Jaundice judgment
 │       ├── baby-jaundice.zh.md        # 黄疸判断（中文版）
 │       ├── baby-temperature.md        # Temperature, room temp, heat rash vs allergy
@@ -131,10 +134,14 @@ newdad-log/
 │       ├── baby-nail-trimming.md      # Newborn nail trimming (0-3 months)
 │       ├── baby-nail-trimming.zh.md   # 剪指甲（中文版）
 │       ├── baby-umbilical-cord.md     # Newborn umbilical cord care (0-4 weeks)
-│       └── baby-umbilical-cord.zh.md  # 脐带护理（中文版）
+│       ├── baby-umbilical-cord.zh.md  # 脐带护理（中文版）
+│       ├── baby-early-learning-play.md # Early learning & play (0-3 months)
+│       └── baby-early-learning-play.zh.md # 早期学习与陪玩（中文版）
 ├── references/                        # Reference materials & tool list
 │   ├── info-sources.md                # Parenting info-gathering tools (CN region)
-│   └── info-sources.zh.md             # 资料来源工具清单（中文版）
+│   ├── info-sources.zh.md             # 资料来源工具清单（中文版）
+│   ├── education-philosophy.md        # Education philosophy source record (Astra Nova / Ad Astra)
+│   └── education-philosophy.zh.md     # 教育理念出处记录（中文版）
 ```
 
 ---
@@ -159,10 +166,11 @@ When the project is finalized (child turns 3 / voluntarily stopped) → write `S
 
 ## 📊 Current accumulation
 
-- **11 decision trees** (all bilingual): jaundice / temperature / gas / milk switch / feeding rhythm / stool observation / spit-up vs choking / sleep / crying triage / nail trimming / umbilical cord care
+- **12 decision trees** (all bilingual): jaundice / temperature / gas / milk switch / feeding rhythm / stool observation / spit-up vs choking / sleep / crying triage / nail trimming / umbilical cord care / early learning & play
 - **0 personal cases** (strictly desensitized)
 - **0 private data** (privacy iron rule)
 - **1 information-source tool list** (Ant Afu / Xiaohongshu / Meiyou etc.) — see [references/info-sources.zh.md](references/info-sources.zh.md)
+- **1 education-philosophy source record** (Astra Nova / Ad Astra) — see [references/education-philosophy.md](references/education-philosophy.md)
 
 > Data update: synchronized with this document after each new sediment.
 
